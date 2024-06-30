@@ -2,8 +2,8 @@
 #define _UART_H
 #include <stdint.h>
 
-#define SERIAL_TX_BUFFER_SIZE 64
-#define SERIAL_RX_BUFFER_SIZE 64
+#define SERIAL_TX_BUFFER_SIZE 512
+#define SERIAL_RX_BUFFER_SIZE 8
 
 #if (SERIAL_TX_BUFFER_SIZE > 256)
 	typedef uint16_t tx_buffer_index_t;
@@ -33,9 +33,8 @@ int8_t	queue_peek(queue_struct * ptr);
 int8_t	queue_available(queue_struct * ptr); 
 uint8_t queue_read(queue_struct * ptr); 
 void	queue_writeforTx(queue_struct * ptr, uint8_t * pData, const uint8_t length) ;
-int8_t	queue_availableForTx(queue_struct * ptr); 
+tx_buffer_index_t	queue_availableForTx(queue_struct * ptr); 
 uint8_t queue_readForTx(queue_struct * ptr);
-
 
 extern queue_struct queueForUart0; 
 extern queue_struct queueForUart1;

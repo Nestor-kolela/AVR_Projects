@@ -16,7 +16,17 @@ main.d main.o: .././main.c \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
  .././UART_PERIPHERALs.h .././queue.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h \
- c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdbool.h
+ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdbool.h \
+ .././sysTimer.h .././defines.h .././BlinkyTask.h \
+ .././IOT_Library/Ethernet/wizchip_conf.h \
+ .././IOT_Library/Ethernet/W5300/w5300.h \
+ ../IOT_Library/Ethernet/wizchip_conf.h \
+ .././IOT_Library/Ethernet/W5300/w5300.h .././wiznet_driver.h \
+ .././staticRam.h \
+ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\stdio.h \
+ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdarg.h \
+ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stddef.h \
+ .././externMemInterface.h .././IOT_Library/Internet/DHCP/dhcp.h
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\io.h:
 
@@ -55,3 +65,31 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h:
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdbool.h:
+
+.././sysTimer.h:
+
+.././defines.h:
+
+.././BlinkyTask.h:
+
+.././IOT_Library/Ethernet/wizchip_conf.h:
+
+.././IOT_Library/Ethernet/W5300/w5300.h:
+
+../IOT_Library/Ethernet/wizchip_conf.h:
+
+.././IOT_Library/Ethernet/W5300/w5300.h:
+
+.././wiznet_driver.h:
+
+.././staticRam.h:
+
+c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\stdio.h:
+
+c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdarg.h:
+
+c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stddef.h:
+
+.././externMemInterface.h:
+
+.././IOT_Library/Internet/DHCP/dhcp.h:

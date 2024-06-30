@@ -116,6 +116,7 @@
         <avrgcc.compiler.directories.IncludePaths>
           <ListValues>
             <Value>%24(PackRepoDir)\atmel\ATmega_DFP\1.7.374\include\</Value>
+            <Value>../IOT_Library/Ethernet</Value>
           </ListValues>
         </avrgcc.compiler.directories.IncludePaths>
         <avrgcc.compiler.optimization.level>Optimize debugging experience (-Og)</avrgcc.compiler.optimization.level>
@@ -138,10 +139,232 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Blinky.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="BlinkyTask.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="defines.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="External_Interrupt.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="External_Interrupt.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="externMemInterface.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="externMemInterface.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Flash.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Flash.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="GPIO.c">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="GPIO.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Application\loopback\loopback.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Application\loopback\loopback.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Application\multicast\multicast.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Application\multicast\multicast.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\socket.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\socket.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5100S\w5100s.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5100S\w5100s.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5100\w5100.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5100\w5100.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5200\w5200.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5200\w5200.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5300\w5300.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5300\w5300.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5500\w5500.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\W5500\w5500.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\wizchip_conf.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Ethernet\wizchip_conf.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\DHCP\dhcp.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\DHCP\dhcp.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\DNS\dns.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\DNS\dns.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPClient\ftpc.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPClient\ftpc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPClient\stdio_private.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPServer\ftpd.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPServer\ftpd.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\FTPServer\stdio_private.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpParser.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpParser.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpServer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpServer.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpUtil.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\httpServer\httpUtil.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTClient.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTClient.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTConnect.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTConnectClient.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTConnectServer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTDeserializePublish.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTFormat.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTFormat.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTPacket.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTPacket.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTPublish.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTSerializePublish.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTSubscribe.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTSubscribeClient.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTSubscribeServer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTUnsubscribe.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTUnsubscribeClient.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\MQTTUnsubscribeServer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\MQTTPacket\src\StackTrace.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\mqtt_interface.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\MQTT\mqtt_interface.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNMP\snmp.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNMP\snmp.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNMP\snmp_custom.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNMP\snmp_custom.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNTP\sntp.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\SNTP\sntp.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\TFTP\netutil.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\TFTP\netutil.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\TFTP\tftp.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="IOT_Library\Internet\TFTP\tftp.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="main.c">
@@ -153,12 +376,71 @@
     <Compile Include="queue.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="staticRam.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="staticRam.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="sysTimer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="sysTimer.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="UART_PERIPHERALs.c">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="UART_PERIPHERALs.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="wiznet_driver.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="wiznet_driver.h">
+      <SubType>compile</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IOT_Library" />
+    <Folder Include="IOT_Library\Application\" />
+    <Folder Include="IOT_Library\Application\loopback\" />
+    <Folder Include="IOT_Library\Application\multicast\" />
+    <Folder Include="IOT_Library\Ethernet\" />
+    <Folder Include="IOT_Library\Ethernet\W5100S\" />
+    <Folder Include="IOT_Library\Ethernet\W5100\" />
+    <Folder Include="IOT_Library\Ethernet\W5200\" />
+    <Folder Include="IOT_Library\Ethernet\W5300\" />
+    <Folder Include="IOT_Library\Ethernet\W5500\" />
+    <Folder Include="IOT_Library\Internet\" />
+    <Folder Include="IOT_Library\Internet\DHCP\" />
+    <Folder Include="IOT_Library\Internet\DNS\" />
+    <Folder Include="IOT_Library\Internet\FTPClient\" />
+    <Folder Include="IOT_Library\Internet\FTPServer\" />
+    <Folder Include="IOT_Library\Internet\httpServer\" />
+    <Folder Include="IOT_Library\Internet\MQTT\" />
+    <Folder Include="IOT_Library\Internet\MQTT\MQTTPacket\" />
+    <Folder Include="IOT_Library\Internet\MQTT\MQTTPacket\src\" />
+    <Folder Include="IOT_Library\Internet\SNMP\" />
+    <Folder Include="IOT_Library\Internet\SNMP\tools\" />
+    <Folder Include="IOT_Library\Internet\SNMP\tools\net-snmp-5.7%28win32-bin%29\" />
+    <Folder Include="IOT_Library\Internet\SNMP\tools\OID_Converter\" />
+    <Folder Include="IOT_Library\Internet\SNTP\" />
+    <Folder Include="IOT_Library\Internet\TFTP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IOT_Library\Ethernet\Socket_APIs_V3.0.3.chm">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="IOT_Library\Internet\FTPServer\README.md">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="IOT_Library\Internet\SNMP\tools\net-snmp-5.7%28win32-bin%29\snmptrapd.conf">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="IOT_Library\Internet\SNMP\tools\OID_Converter\Readme.txt">
+      <SubType>compile</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
 </Project>

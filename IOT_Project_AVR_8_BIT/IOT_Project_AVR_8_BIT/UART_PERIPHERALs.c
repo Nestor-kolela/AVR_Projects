@@ -9,7 +9,6 @@
 #include "queue.h"
 
 extern queue_struct queueForUart0;
-extern queue_struct queueForUart1;
 
 #define UART0_TX_START()	UCSR0B |=  (1 << UDRIE0) 
 #define UART0_TX_STOP()		UCSR0B &= ~((1 << UDRIE0)) 

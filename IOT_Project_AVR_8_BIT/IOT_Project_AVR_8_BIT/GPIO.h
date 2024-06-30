@@ -9,30 +9,83 @@
 #ifndef GPIO_H_
 #define GPIO_H_
 
-#define LED_1_PIN		PB4
-#define LED_1_PORT		PORTB
-#define LED_1_TOGGLE()	LED_1_PORT ^=	(1 << LED_1_PIN)
-#define LED_1_ON()		LED_1_PORT |=	(1 << LED_1_PIN)
-#define LED_1_OFF()		LED_1_PORT &=  ~(1 << LED_1_PIN)
+#define LED_1_PIN					PB4
+#define LED_1_PORT					PORTB
+#define LED_1_TOGGLE()				LED_1_PORT ^=	(1 << LED_1_PIN)
+#define LED_1_ON()					LED_1_PORT |=	(1 << LED_1_PIN)
+#define LED_1_OFF()					LED_1_PORT &=  ~(1 << LED_1_PIN)
+
+#define LED_2_PIN					PB5
+#define LED_2_PORT					PORTB
+#define LED_2_TOGGLE()				LED_2_PORT ^=	(1 << LED_2_PIN)
+#define LED_2_ON()					LED_2_PORT |=	(1 << LED_2_PIN)
+#define LED_2_OFF()					LED_2_PORT &=  ~(1 << LED_2_PIN)
+
+#define LED_3_PIN					PB6
+#define LED_3_PORT					PORTB
+#define LED_3_TOGGLE()				LED_3_PORT ^=	(1 << LED_3_PIN)
+#define LED_3_ON()					LED_3_PORT |=	(1 << LED_3_PIN)
+#define LED_3_OFF()					LED_3_PORT &=  ~(1 << LED_3_PIN)
+
+#define LED_4_PIN					PB7
+#define LED_4_PORT					PORTB
+#define LED_4_TOGGLE()				LED_4_PORT ^=	(1 << LED_4_PIN)
+#define LED_4_ON()					LED_4_PORT |=	(1 << LED_4_PIN)
+#define LED_4_OFF()					LED_4_PORT &=  ~(1 << LED_4_PIN)
+
+#define WIZNET_5300_WR_PIN			PG0
+#define WIZNET_5300_WR_PORT			PORTG
+#define WIZNET_5300_WR_TOGGLE()		MCP74AC_PORT ^=	(1 << MCP74AC_4_PIN)
+#define WIZNET_5300_WR_ON()			MCP74AC_PORT |=	(1 << MCP74AC_4_PIN)
+#define WIZNET_5300_WR_OFF()		MCP74AC_PORT &=  ~(1 << MCP74AC_4_PIN)
+
+#define WIZNET_5300_RD_PIN			PG1
+#define WIZNET_5300_RD_PORT			PORTG
+#define WIZNET_5300_RD_TOGGLE()		MCP74AC_PORT ^=	(1 << MCP74AC_4_PIN)
+#define WIZNET_5300_RD_ON()			MCP74AC_PORT |=	(1 << MCP74AC_4_PIN)
+#define WIZNET_5300_RD_OFF()		MCP74AC_PORT &=  ~(1 << MCP74AC_4_PIN)
+
+#define MCP74AC_4_PIN				PG2
+#define MCP74AC_PORT				PORTG
+#define MCP74AC_TOGGLE()			MCP74AC_PORT ^=	(1 << MCP74AC_4_PIN)
+#define MCP74AC_ON()				MCP74AC_PORT |=	(1 << MCP74AC_4_PIN)
+#define MCP74AC_OFF()				MCP74AC_PORT &=  ~(1 << MCP74AC_4_PIN)
+
+#define WIZNET_5300_CS_PIN			PC7
+#define WIZNET_5300_CS_PORT			PORTC
+#define WIZNET_5300_CS_TOGGLE()		WIZNET_5300_CS_PORT ^=	(1 << WIZNET_5300_CS_PIN)
+#define WIZNET_5300_CS_ON()			WIZNET_5300_CS_PORT |=	(1 << WIZNET_5300_CS_PIN)
+#define WIZNET_5300_CS_OFF()		WIZNET_5300_CS_PORT &=  ~(1 << WIZNET_5300_CS_PIN)
+
+#define EXTERN_RAM_CS_PIN			PC7
+#define EXTERN_RAM_CS_PORT			PORTC
+#define EXTERN_RAM_CS_TOGGLE()		EXTERN_RAM_CS_PORT ^=	(1 << EXTERN_RAM_CS_PIN)
+#define EXTERN_RAM_CS_ON()			EXTERN_RAM_CS_PORT |=	(1 << EXTERN_RAM_CS_PIN)
+#define EXTERN_RAM_CS_OFF()			EXTERN_RAM_CS_PORT &=  ~(1 << EXTERN_RAM_CS_PIN)
+
+#define EXTERN_RAM_RD_PIN			PG1
+#define EXTERN_RAM_RD_PORT			PORTG
+#define EXTERN_RAM_RD_TOGGLE()		EXTERN_RAM_RD_PORT ^=	(1 << EXTERN_RAM_RD_PIN)
+#define EXTERN_RAM_RD_ON()			EXTERN_RAM_RD_PORT |=	(1 << EXTERN_RAM_RD_PIN)
+#define EXTERN_RAM_RD_OFF()			EXTERN_RAM_RD_PORT &=  ~(1 << EXTERN_RAM_RD_PIN)
+
+#define EXTERN_RAM_WR_PIN			PG0
+#define EXTERN_RAM_WR_PORT			PORTG
+#define EXTERN_RAM_WR_TOGGLE()		EXTERN_RAM_WR_PORT ^=	(1 << EXTERN_RAM_WR_PIN)
+#define EXTERN_RAM_WR_ON()			EXTERN_RAM_WR_PORT |=	(1 << EXTERN_RAM_WR_PIN)
+#define EXTERN_RAM_WR_OFF()			EXTERN_RAM_WR_PORT &=  ~(1 << EXTERN_RAM_WR_PIN)
 
 
-#define LED_2_PIN		PB5
-#define LED_2_PORT		PORTB
-#define LED_2_TOGGLE()	LED_2_PORT ^=	(1 << LED_2_PIN)
-#define LED_2_ON()		LED_2_PORT |=	(1 << LED_2_PIN)
-#define LED_2_OFF()		LED_2_PORT &=  ~(1 << LED_2_PIN)
+#define ADDR_PORT_UPPER				PORTC
+#define ADDR_PORT_LOWER				PORTA	
 
-#define LED_3_PIN		PB6
-#define LED_3_PORT		PORTB
-#define LED_3_TOGGLE()	LED_3_PORT ^=	(1 << LED_3_PIN)
-#define LED_3_ON()		LED_3_PORT |=	(1 << LED_3_PIN)
-#define LED_3_OFF()		LED_3_PORT &=  ~(1 << LED_3_PIN)
+#define INPUT_OUTPUT_CONFIG_PORT	PORTA	
+#define INPUT_OUTPUT_CONTROL_REG	DDRA	
 
-#define LED_4_PIN		PB7
-#define LED_4_PORT		PORTB
-#define LED_4_TOGGLE()	LED_4_PORT ^=	(1 << LED_4_PIN)
-#define LED_4_ON()		LED_4_PORT |=	(1 << LED_4_PIN)
-#define LED_4_OFF()		LED_4_PORT &=  ~(1 << LED_4_PIN)
+#define INPUT_READ_STATUS_REG		PINA
+	
+#define SET_AS_INPUT				0x00
+#define SET_AS_OUTPUT				0xFF
 
 void GPIO_Init(void);
 
