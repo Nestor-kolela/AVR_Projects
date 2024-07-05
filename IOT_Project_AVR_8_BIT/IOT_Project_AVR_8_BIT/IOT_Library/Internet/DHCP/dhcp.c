@@ -934,17 +934,18 @@ void DHCP_init(uint8_t s, uint8_t * buf)
    if((DHCP_CHADDR[0] | DHCP_CHADDR[1]  | DHCP_CHADDR[2] | DHCP_CHADDR[3] | DHCP_CHADDR[4] | DHCP_CHADDR[5]) == 0x00)
    {
       // assigning temporary mac address, you should be set SHAR before call this function. 
-      DHCP_CHADDR[0] = 0x00;
+	  //{0x01,0x08, 0xDC, 0x14, 0xD4, 0x47};
+      DHCP_CHADDR[0] = 0x01;
       DHCP_CHADDR[1] = 0x08;
       DHCP_CHADDR[2] = 0xdc;      
-      DHCP_CHADDR[3] = 0x00;
-      DHCP_CHADDR[4] = 0x00;
-      DHCP_CHADDR[5] = 0x00; 
+      DHCP_CHADDR[3] = 0x14;
+      DHCP_CHADDR[4] = 0xd4;
+      DHCP_CHADDR[5] = 0x47; 
       setSHAR(DHCP_CHADDR);     
    }
 
 	DHCP_SOCKET = s; // SOCK_DHCP
-	pDHCPMSG = (RIP_MSG*)buf;
+	pDHCPMSG = (RIP_MSG*) buf;
 	DHCP_XID = 0x12345678;
 	{
 		DHCP_XID += DHCP_CHADDR[3];
@@ -952,7 +953,7 @@ void DHCP_init(uint8_t s, uint8_t * buf)
 		DHCP_XID += DHCP_CHADDR[5];
 		DHCP_XID += (DHCP_CHADDR[3] ^ DHCP_CHADDR[4] ^ DHCP_CHADDR[5]);
 	}
-	// WIZchip Netinfo Clear
+	// WIZchip Net info Clear
 	setSIPR(zeroip);
 	setGAR(zeroip);
 

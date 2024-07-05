@@ -409,8 +409,10 @@ int8_t ctlnetwork(ctlnetwork_type cntype, void* arg)
 
 void wizchip_sw_reset(void)
 {
-   uint8_t gw[4], sn[4], sip[4];
-   uint8_t mac[6];
+   uint8_t gw[4];
+   uint8_t sn[4];
+   uint8_t sip[4];
+   uint8_t mac[6] = {0x01,0x08, 0xDC, 0x14, 0xD4, 0x47};
 //A20150601
 #if _WIZCHIP_IO_MODE_  == _WIZCHIP_IO_MODE_BUS_INDIR_
    uint16_t mr = (uint16_t)getMR();
@@ -418,7 +420,9 @@ void wizchip_sw_reset(void)
 #endif
 //
    getSHAR(mac);
-   getGAR(gw);  getSUBR(sn);  getSIPR(sip);
+   getGAR(gw);  
+   getSUBR(sn);  
+   getSIPR(sip);
    setMR(MR_RST);
    getMR(); // for delay
 //A2015051 : For indirect bus mode 

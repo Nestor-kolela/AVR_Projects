@@ -23,9 +23,9 @@
 #include "IOT_Library/Internet/DHCP/dhcp.h"
 #include <stdio.h>
 
-uint8_t txBuffer[8] = {2, 2, 2, 2, 2, 2, 2, 2};
-uint8_t rxBuffer[8] = {2, 2, 2, 2, 2, 2, 2, 2};
-uint8_t dhcpBuffer[256] = {0,};
+uint8_t txBuffer[8] = {8, 8, 8, 8, 8, 8, 8, 8};
+uint8_t rxBuffer[8] = {8, 8, 8, 8, 8, 8, 8, 8};
+uint8_t dhcpBuffer[600] = {0,};
 	
 //Function Prototype. 
 static int uart_putchar(char c, FILE *stream);
@@ -59,24 +59,28 @@ int main(void)
 	
 	Blinky_Init();
 	
-	//DHCP
-	DHCP_init(1, dhcpBuffer);
-	
+	DNS_init(1, dhcpBuffer); 
 	//DNS
+	
+	//DHCP
+	DHCP_init(2, dhcpBuffer);
 
 	//For SRAM the address 0x0000 - 0x7FFF
 	//For Ethernet device  0x8000 - 0x83FF
 	
-	sysTimerSubModuleStart(&myTimers[1], 1000);
-
+	sysTimerSubModuleStart(&myTimers[1], 1000);   
+	
+	printf("We are starting...\r\n");
     while (1) 
     {
 		BlinkyTask();
-		DHCP_run(); 
+		DHCP_run();  
+		//DNS_run(); 
 		if(sysTimerSubModuleExpired(&myTimers[1]) == true)
 		{
 			sysTimerSubModuleStart(&myTimers[1], 1000);
 			DHCP_time_handler(); 
+			DNS_time_handler(); 
 		}
     }
 }

@@ -32,9 +32,6 @@ void GPIO_Init(void)
 	
 	//Don't Configure PORTB as it has been configured above. PIN0 to PB3 will be configured under the SPI function
 	
-	//Configure PORTD
-	
-	
 	//Configure PORTE
 	PORTE |= 1 << PE4;
 	DDRE &= ~(1 << DDE4); 

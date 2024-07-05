@@ -9,6 +9,6 @@
 #include <avr/io.h>
 void External_Mem_Inter_Init(void)
 {
-	MCUCR |= 1 << SRE;
-	XMCRB = (1<<XMM1) | (1<<XMM0);
+	MCUCR |= (1 << SRE) | (1 << SRW10);
+	XMCRA |= (1<<SRL2);
 }
