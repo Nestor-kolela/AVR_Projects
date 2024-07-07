@@ -21,11 +21,13 @@
 #include "staticRam.h"
 #include "externMemInterface.h"
 #include "IOT_Library/Internet/DHCP/dhcp.h"
+#include "IOT_Library/Internet/DNS/dns.h"
 #include <stdio.h>
 
 uint8_t txBuffer[8] = {8, 8, 8, 8, 8, 8, 8, 8};
 uint8_t rxBuffer[8] = {8, 8, 8, 8, 8, 8, 8, 8};
-uint8_t dhcpBuffer[600] = {0,};
+	
+uint8_t ethernetBuffer[2048] = {0,};
 	
 //Function Prototype. 
 static int uart_putchar(char c, FILE *stream);
@@ -38,6 +40,7 @@ static int uart_putchar(char c, FILE *stream)
 	UART0_write(ptr, 1); 
 	return 0;
 }
+
 
 int main(void)
 {
@@ -59,18 +62,19 @@ int main(void)
 	
 	Blinky_Init();
 	
-	DNS_init(1, dhcpBuffer); 
+	//DNS_init(1, ethernetBuffer); 
 	//DNS
 	
 	//DHCP
-	DHCP_init(2, dhcpBuffer);
+	DHCP_init(0, ethernetBuffer);
 
 	//For SRAM the address 0x0000 - 0x7FFF
 	//For Ethernet device  0x8000 - 0x83FF
 	
 	sysTimerSubModuleStart(&myTimers[1], 1000);   
+
+	printf("Starting...\r\n");
 	
-	printf("We are starting...\r\n");
     while (1) 
     {
 		BlinkyTask();
@@ -80,7 +84,7 @@ int main(void)
 		{
 			sysTimerSubModuleStart(&myTimers[1], 1000);
 			DHCP_time_handler(); 
-			DNS_time_handler(); 
+			//DNS_time_handler(); 
 		}
     }
 }

@@ -934,13 +934,12 @@ void DHCP_init(uint8_t s, uint8_t * buf)
    if((DHCP_CHADDR[0] | DHCP_CHADDR[1]  | DHCP_CHADDR[2] | DHCP_CHADDR[3] | DHCP_CHADDR[4] | DHCP_CHADDR[5]) == 0x00)
    {
       // assigning temporary mac address, you should be set SHAR before call this function. 
-	  //{0x01,0x08, 0xDC, 0x14, 0xD4, 0x47};
-      DHCP_CHADDR[0] = 0x01;
-      DHCP_CHADDR[1] = 0x08;
-      DHCP_CHADDR[2] = 0xdc;      
-      DHCP_CHADDR[3] = 0x14;
-      DHCP_CHADDR[4] = 0xd4;
-      DHCP_CHADDR[5] = 0x47; 
+      DHCP_CHADDR[0] = 0xE4;
+      DHCP_CHADDR[1] = 0x8D;
+      DHCP_CHADDR[2] = 0x8C;      
+      DHCP_CHADDR[3] = 0x4E;
+      DHCP_CHADDR[4] = 0xE0;
+      DHCP_CHADDR[5] = 0x13; 
       setSHAR(DHCP_CHADDR);     
    }
 

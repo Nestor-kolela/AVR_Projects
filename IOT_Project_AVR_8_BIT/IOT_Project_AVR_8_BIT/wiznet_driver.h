@@ -15,7 +15,6 @@ void	wiznet_5300_write(uint32_t addr, uint8_t wb);
 void	wiznet_5300_chip_select(void); 
 void	wiznet_5300_chip_DeSelect(void);
 
- 
 void	enable_global_interrupts(void);
 void	disable_global_interrupts(void);
 

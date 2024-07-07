@@ -7,7 +7,6 @@
 
 #include "sysTimer.h"
 
-volatile uint8_t value = 0; 
 timer myTimers[TIMER_MAX_SIZE] =
 {
 	{.count = 0, .enable = false, .maxValue = 0, .timerExpired = false},
@@ -21,18 +20,15 @@ ISR(TIMER1_COMPA_vect)
 	for(uint8_t cnt = 0; cnt < TIMER_MAX_SIZE; cnt++)
 	{
 		timer * pTimer = &myTimers[cnt];
-		if(pTimer->timerExpired == false || pTimer->enable == false)
+		if(pTimer->timerExpired == false && pTimer->enable == true)
 		{
-			if(pTimer->enable == true)
+			if(++pTimer->count >= pTimer->maxValue)
 			{
-				if(++pTimer->count >= pTimer->maxValue)
-				{
-					pTimer->count			= pTimer->maxValue;
-					pTimer->timerExpired	= true;
-				}
+				pTimer->count			= 0;
+				pTimer->maxValue		= 0; 
+				pTimer->timerExpired	= true;
 			}
-		} 
-
+		}
 	}
 }
 

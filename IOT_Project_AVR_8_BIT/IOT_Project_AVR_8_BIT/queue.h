@@ -2,7 +2,7 @@
 #define _UART_H
 #include <stdint.h>
 
-#define SERIAL_TX_BUFFER_SIZE 512
+#define SERIAL_TX_BUFFER_SIZE 128
 #define SERIAL_RX_BUFFER_SIZE 8
 
 #if (SERIAL_TX_BUFFER_SIZE > 256)
