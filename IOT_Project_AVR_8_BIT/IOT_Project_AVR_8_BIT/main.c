@@ -62,29 +62,18 @@ int main(void)
 	
 	Blinky_Init();
 	
-	//DNS_init(1, ethernetBuffer); 
-	//DNS
-	
 	//DHCP
 	DHCP_init(0, ethernetBuffer);
 
 	//For SRAM the address 0x0000 - 0x7FFF
 	//For Ethernet device  0x8000 - 0x83FF
-	
-	sysTimerSubModuleStart(&myTimers[1], 1000);   
 
+	sysTimerSubModuleInit(1000, DHCP_time_handler);
+	
 	printf("Starting...\r\n");
 	
     while (1) 
     {
-		BlinkyTask();
-		DHCP_run();  
-		//DNS_run(); 
-		if(sysTimerSubModuleExpired(&myTimers[1]) == true)
-		{
-			sysTimerSubModuleStart(&myTimers[1], 1000);
-			DHCP_time_handler(); 
-			//DNS_time_handler(); 
-		}
+		DHCP_run();
     }
 }

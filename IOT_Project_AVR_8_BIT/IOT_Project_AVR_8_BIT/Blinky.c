@@ -9,13 +9,9 @@
 #include "UART_PERIPHERALs.h"
 void Blinky_Init(void)
 {
-	sysTimerSubModuleStart(&myTimers[0], 50); 
+	sysTimerSubModuleInit(50, BlinkyTask); 
 }
 void BlinkyTask(void)
 {
-	if(sysTimerSubModuleExpired(&myTimers[0]) == true)
-	{
-		sysTimerSubModuleStart(&myTimers[0], 50);
-		LED_1_TOGGLE();
-	}
+	LED_1_TOGGLE();	
 }

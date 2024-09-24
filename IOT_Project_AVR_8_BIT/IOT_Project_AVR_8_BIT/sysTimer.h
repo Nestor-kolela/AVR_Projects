@@ -16,14 +16,13 @@ typedef struct _timer_
 {
 	uint32_t	count; 
 	uint32_t	maxValue; 
-	bool 		timerExpired; 
 	bool		enable; 
+	void		(*ptrFunc)(void);
 }timer;
 
 //Value to load. 
 #define TIMER_VALUE		1000 //for 1000 = 1millisecond
 #define TIMER_MAX_SIZE	4
-
 
 extern timer myTimers[TIMER_MAX_SIZE]; 
 
@@ -33,9 +32,9 @@ void sysTimerStart(void);
 void sysTimerStop(void); 
 
 //Timer functionality functions. 
-void sysTimerSubModuleStart(timer * pTimer, const uint32_t milliSeconds); 
-void sysTimerSubModuleStop(timer * pTimer); 
-void sysTimerSubModuleResume(timer * pTimer); 
-bool sysTimerSubModuleExpired(timer * pTimer); 
+void sysTimerSubModuleStart(const uint8_t timerIndex, const uint32_t milliSeconds);
+void sysTimerSubModuleStop(const uint8_t timerIndex); 
+void sysTimerSubModuleResume(const uint8_t timerIndex); 
+void sysTimerSubModuleInit(const uint32_t milliSeconds, void (*ptrFunction)(void)); 
 
 #endif /* SYSTIMER_H_ */

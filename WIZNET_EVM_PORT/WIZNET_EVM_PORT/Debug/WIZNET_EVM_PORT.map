@@ -1,0 +1,1875 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                              main.o (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              main.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              main.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                              Wiznet_Library/evb/romfile.o (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+                              Wiznet_Library/evb/romfile.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                              dhcp_task.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                              dhcp_task.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                              main.o (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+                              main.o (memcpy_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcmp.o)
+                              task_config.o (memcmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                              main.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memset.o)
+                              main.o (memset)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcat.o)
+                              Wiznet_Library/inet/httpd.o (strcat)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strchr.o)
+                              main.o (strchr)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcmp.o)
+                              main.o (strcmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcpy.o)
+                              Wiznet_Library/inet/httpd.o (strcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strstr.o)
+                              main.o (strstr)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+                              Wiznet_Library/mcu/serial.o (fdevopen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o) (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+                              dhcp_task.o (printf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                              dhcp_task.o (puts)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                              main.o (sprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o) (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o) (calloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o) (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (__ultoa_invert)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+                              dhcp_task.o (eeprom_read_block)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+                              task_config.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+                              Wiznet_Library/evb/config.o (eeprom_read_word)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+                              dhcp_task.o (eeprom_write_block)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+                              main.o (eeprom_write_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+                              Wiznet_Library/evb/config.o (eeprom_write_word)
+
+Allocating common symbols
+Common symbol       size              file
+
+PageBits            0x1               Wiznet_Library/evb/dataflash.o
+check_sendok_flag   0x8               Wiznet_Library/iinchip/socket.o
+GET_GW_IP           0x4               Wiznet_Library/inet/dhcp.o
+first_send_flag     0x8               Wiznet_Library/iinchip/socket.o
+GET_SN_MASK         0x4               Wiznet_Library/inet/dhcp.o
+NetConf             0x19              Wiznet_Library/evb/config.o
+SysInfo             0x9               Wiznet_Library/evb/config.o
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+local_port          0x2               Wiznet_Library/iinchip/socket.o
+NetworkParam        0x1f              task_config.o
+ChConf              0x3a              Wiznet_Library/evb/config.o
+SOCK_INT            0x8               Wiznet_Library/iinchip/w5300.o
+PageSize            0x2               Wiznet_Library/evb/dataflash.o
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+RXMEM_SIZE          0x20              Wiznet_Library/iinchip/w5300.o
+bchannel_start      0x1               main.o
+MSGConfig           0x1f              task_config.o
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+SRC_MAC_ADDR        0x6               Wiznet_Library/inet/dhcp.o
+TXMEM_SIZE          0x20              Wiznet_Library/iinchip/w5300.o
+TIMER_IRQS          0x2               Wiznet_Library/mcu/timer.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .text          0x00000000        0x0 dhcp_task.o
+ .data          0x00000000        0x0 dhcp_task.o
+ .bss           0x00000000        0x0 dhcp_task.o
+ .bss.m_FlagDhcpInit
+                0x00000000        0x1 dhcp_task.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss.m_FlagWrite
+                0x00000000        0x1 main.o
+ .text          0x00000000        0x0 task_config.o
+ .data          0x00000000        0x0 task_config.o
+ .bss           0x00000000        0x0 task_config.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/config.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/config.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/config.o
+ .text.set_sysinfo
+                0x00000000        0xe Wiznet_Library/evb/config.o
+ .text.get_sysinfo
+                0x00000000       0x62 Wiznet_Library/evb/config.o
+ .text.get_reset_flag
+                0x00000000        0xe Wiznet_Library/evb/config.o
+ .text.set_reset_flag
+                0x00000000        0xc Wiznet_Library/evb/config.o
+ .text.get_system_any_port
+                0x00000000       0x86 Wiznet_Library/evb/config.o
+ .text.set_netconf
+                0x00000000        0xe Wiznet_Library/evb/config.o
+ .rodata.str1.1
+                0x00000000      0x133 Wiznet_Library/evb/config.o
+ .rodata        0x00000000        0xe Wiznet_Library/evb/config.o
+ .text.get_netconf
+                0x00000000       0xda Wiznet_Library/evb/config.o
+ .text.set_chconf
+                0x00000000        0xe Wiznet_Library/evb/config.o
+ .text.get_chconf
+                0x00000000       0x6a Wiznet_Library/evb/config.o
+ .text.init_conf_variables
+                0x00000000       0x44 Wiznet_Library/evb/config.o
+ .text.load_factory_netconf
+                0x00000000       0x16 Wiznet_Library/evb/config.o
+ .text.load_factory_chconf
+                0x00000000       0x16 Wiznet_Library/evb/config.o
+ .text.display_netconf
+                0x00000000       0xca Wiznet_Library/evb/config.o
+ .text.display_chconf
+                0x00000000      0x12e Wiznet_Library/evb/config.o
+ .text.get_netconf_reg
+                0x00000000      0x10c Wiznet_Library/evb/config.o
+ .text.comp_net_conf
+                0x00000000       0xac Wiznet_Library/evb/config.o
+ .debug_info    0x00000000      0xced Wiznet_Library/evb/config.o
+ .debug_abbrev  0x00000000      0x20d Wiznet_Library/evb/config.o
+ .debug_loc     0x00000000      0x716 Wiznet_Library/evb/config.o
+ .debug_aranges
+                0x00000000       0x98 Wiznet_Library/evb/config.o
+ .debug_ranges  0x00000000       0x88 Wiznet_Library/evb/config.o
+ .debug_line    0x00000000      0x620 Wiznet_Library/evb/config.o
+ .debug_str     0x00000000      0x473 Wiznet_Library/evb/config.o
+ .comment       0x00000000       0x31 Wiznet_Library/evb/config.o
+ .debug_frame   0x00000000      0x1d0 Wiznet_Library/evb/config.o
+ COMMON         0x00000000       0x5c Wiznet_Library/evb/config.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/dataflash.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/dataflash.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/dataflash.o
+ .text.SPI0_WriteByte
+                0x00000000        0x8 Wiznet_Library/evb/dataflash.o
+ .text.DF_BufferReadByte
+                0x00000000       0x4e Wiznet_Library/evb/dataflash.o
+ .text.DF_BufferWriteEnable
+                0x00000000       0x3e Wiznet_Library/evb/dataflash.o
+ .text.DF_BufferWriteStr
+                0x00000000       0x6a Wiznet_Library/evb/dataflash.o
+ .text.Cont_Flash_Read_Enable
+                0x00000000       0x8e Wiznet_Library/evb/dataflash.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/evb.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/evb.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/evb.o
+ .rodata        0x00000000        0x8 Wiznet_Library/evb/evb.o
+ .text.NetInit  0x00000000       0x82 Wiznet_Library/evb/evb.o
+ .text.mcu_init
+                0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .text.led_init
+                0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .text.led_toggle
+                0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .text.sw_init  0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .text.AdcInit  0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .text.evb_soft_reset
+                0x00000000        0x2 Wiznet_Library/evb/evb.o
+ .bss.m_FileWriteCount
+                0x00000000        0x4 Wiznet_Library/evb/evb.o
+ .bss.m_FileSize
+                0x00000000        0x4 Wiznet_Library/evb/evb.o
+ .bss.m_FlagFlashWrite
+                0x00000000        0x1 Wiznet_Library/evb/evb.o
+ .bss.m_FlagWrite
+                0x00000000        0x1 Wiznet_Library/evb/evb.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/lcd.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/lcd.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/lcd.o
+ .text.lcd_delay
+                0x00000000       0x58 Wiznet_Library/evb/lcd.o
+ .text.lcd_ready
+                0x00000000       0x6e Wiznet_Library/evb/lcd.o
+ .text.lcd_command
+                0x00000000       0x52 Wiznet_Library/evb/lcd.o
+ .text.lcd_clrscr
+                0x00000000        0xc Wiznet_Library/evb/lcd.o
+ .text.lcd_data
+                0x00000000       0x52 Wiznet_Library/evb/lcd.o
+ .text.lcd_gotoxy
+                0x00000000       0x48 Wiznet_Library/evb/lcd.o
+ .text.lcd_init
+                0x00000000       0x68 Wiznet_Library/evb/lcd.o
+ .text.lcd_puts
+                0x00000000       0x3a Wiznet_Library/evb/lcd.o
+ .text.lcd_putch
+                0x00000000       0x12 Wiznet_Library/evb/lcd.o
+ .debug_info    0x00000000      0x3ba Wiznet_Library/evb/lcd.o
+ .debug_abbrev  0x00000000      0x147 Wiznet_Library/evb/lcd.o
+ .debug_loc     0x00000000      0x2d6 Wiznet_Library/evb/lcd.o
+ .debug_aranges
+                0x00000000       0x60 Wiznet_Library/evb/lcd.o
+ .debug_ranges  0x00000000       0x50 Wiznet_Library/evb/lcd.o
+ .debug_line    0x00000000      0x336 Wiznet_Library/evb/lcd.o
+ .debug_str     0x00000000      0x21d Wiznet_Library/evb/lcd.o
+ .comment       0x00000000       0x31 Wiznet_Library/evb/lcd.o
+ .debug_frame   0x00000000      0x104 Wiznet_Library/evb/lcd.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/romfile.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/romfile.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/romfile.o
+ .text          0x00000000        0x0 Wiznet_Library/evb/tc77.o
+ .data          0x00000000        0x0 Wiznet_Library/evb/tc77.o
+ .bss           0x00000000        0x0 Wiznet_Library/evb/tc77.o
+ .text          0x00000000        0x0 Wiznet_Library/iinchip/md5.o
+ .data          0x00000000        0x0 Wiznet_Library/iinchip/md5.o
+ .bss           0x00000000        0x0 Wiznet_Library/iinchip/md5.o
+ .text.FF       0x00000000       0xde Wiznet_Library/iinchip/md5.o
+ .text.GG       0x00000000       0xee Wiznet_Library/iinchip/md5.o
+ .text.HH       0x00000000       0xda Wiznet_Library/iinchip/md5.o
+ .text.II       0x00000000       0xea Wiznet_Library/iinchip/md5.o
+ .text.md5_init
+                0x00000000       0x54 Wiznet_Library/iinchip/md5.o
+ .text.md5_encode
+                0x00000000       0x90 Wiznet_Library/iinchip/md5.o
+ .text.md5_decode
+                0x00000000       0xd2 Wiznet_Library/iinchip/md5.o
+ .text.md5_transform
+                0x00000000     0x2222 Wiznet_Library/iinchip/md5.o
+ .text.md5_update
+                0x00000000      0x16e Wiznet_Library/iinchip/md5.o
+ .text.md5_final
+                0x00000000       0xdc Wiznet_Library/iinchip/md5.o
+ .data.padding  0x00000000       0x40 Wiznet_Library/iinchip/md5.o
+ .debug_info    0x00000000     0x1c67 Wiznet_Library/iinchip/md5.o
+ .debug_abbrev  0x00000000      0x1d1 Wiznet_Library/iinchip/md5.o
+ .debug_loc     0x00000000     0x1600 Wiznet_Library/iinchip/md5.o
+ .debug_aranges
+                0x00000000       0x68 Wiznet_Library/iinchip/md5.o
+ .debug_ranges  0x00000000       0x58 Wiznet_Library/iinchip/md5.o
+ .debug_line    0x00000000      0x4c0 Wiznet_Library/iinchip/md5.o
+ .debug_str     0x00000000      0x264 Wiznet_Library/iinchip/md5.o
+ .comment       0x00000000       0x31 Wiznet_Library/iinchip/md5.o
+ .debug_frame   0x00000000      0x344 Wiznet_Library/iinchip/md5.o
+ .text          0x00000000        0x0 Wiznet_Library/iinchip/socket.o
+ .data          0x00000000        0x0 Wiznet_Library/iinchip/socket.o
+ .bss           0x00000000        0x0 Wiznet_Library/iinchip/socket.o
+ .text.connect  0x00000000       0xbc Wiznet_Library/iinchip/socket.o
+ .text.igmpsend
+                0x00000000       0xb8 Wiznet_Library/iinchip/socket.o
+ .bss.cmd_cnt   0x00000000       0x10 Wiznet_Library/iinchip/socket.o
+ .text          0x00000000        0x0 Wiznet_Library/iinchip/w5300.o
+ .data          0x00000000        0x0 Wiznet_Library/iinchip/w5300.o
+ .bss           0x00000000        0x0 Wiznet_Library/iinchip/w5300.o
+ .text.getMR    0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.setMR    0x00000000        0xa Wiznet_Library/iinchip/w5300.o
+ .text.getIR    0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.setIR    0x00000000        0xc Wiznet_Library/iinchip/w5300.o
+ .text.getIMR   0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.setIMR   0x00000000       0x1c Wiznet_Library/iinchip/w5300.o
+ .text.getSHAR  0x00000000       0x48 Wiznet_Library/iinchip/w5300.o
+ .text.getGAR   0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.getSUBR  0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.getSIPR  0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.getRTR   0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.setRTR   0x00000000       0x1c Wiznet_Library/iinchip/w5300.o
+ .text.getRCR   0x00000000        0xa Wiznet_Library/iinchip/w5300.o
+ .text.setRCR   0x00000000        0xc Wiznet_Library/iinchip/w5300.o
+ .text.getPATR  0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.getPTIMER
+                0x00000000        0xa Wiznet_Library/iinchip/w5300.o
+ .text.setPTIMER
+                0x00000000        0xc Wiznet_Library/iinchip/w5300.o
+ .text.getPMAGICR
+                0x00000000        0xa Wiznet_Library/iinchip/w5300.o
+ .text.setPMAGICR
+                0x00000000        0xc Wiznet_Library/iinchip/w5300.o
+ .text.getPSIDR
+                0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.getPDHAR
+                0x00000000       0x48 Wiznet_Library/iinchip/w5300.o
+ .text.getUIPR  0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.getUPORTR
+                0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.getFMTUR
+                0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.getPn_BRDYR
+                0x00000000       0x14 Wiznet_Library/iinchip/w5300.o
+ .text.setPn_BRDYR
+                0x00000000       0x14 Wiznet_Library/iinchip/w5300.o
+ .text.getPn_BDPTHR
+                0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.setPn_BDPTHR
+                0x00000000       0x34 Wiznet_Library/iinchip/w5300.o
+ .text.getIDR   0x00000000       0x28 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_MR
+                0x00000000       0x2e Wiznet_Library/iinchip/w5300.o
+ .text.setSn_MR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_CR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_IMR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_IMR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_DHAR
+                0x00000000       0x6c Wiznet_Library/iinchip/w5300.o
+ .text.setSn_DHAR
+                0x00000000       0x46 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_DPORTR
+                0x00000000       0x30 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_DIPR
+                0x00000000       0x5a Wiznet_Library/iinchip/w5300.o
+ .text.setSn_DIPR
+                0x00000000       0x38 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_MSSR
+                0x00000000       0x3a Wiznet_Library/iinchip/w5300.o
+ .text.setSn_MSSR
+                0x00000000       0x30 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_KPALVTR
+                0x00000000       0x14 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_KPALVTR
+                0x00000000       0x36 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_TX_WRSR
+                0x00000000       0x54 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_TX_FIFOR
+                0x00000000       0x30 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_RX_FIFOR
+                0x00000000       0x3a Wiznet_Library/iinchip/w5300.o
+ .text.getSn_PROTOR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_PROTOR
+                0x00000000       0x2c Wiznet_Library/iinchip/w5300.o
+ .text.getSn_TOSR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_TOSR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_TTLR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_TTLR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getSn_FRAGR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.setSn_FRAGR
+                0x00000000       0x12 Wiznet_Library/iinchip/w5300.o
+ .text.getIINCHIP_RxMAX
+                0x00000000       0x1a Wiznet_Library/iinchip/w5300.o
+ .text          0x00000000        0x0 Wiznet_Library/inet/dhcp.o
+ .data          0x00000000        0x0 Wiznet_Library/inet/dhcp.o
+ .bss           0x00000000        0x0 Wiznet_Library/inet/dhcp.o
+ .text          0x00000000        0x0 Wiznet_Library/inet/httpd.o
+ .data          0x00000000        0x0 Wiznet_Library/inet/httpd.o
+ .bss           0x00000000        0x0 Wiznet_Library/inet/httpd.o
+ .text          0x00000000        0x0 Wiznet_Library/mcu/delay.o
+ .data          0x00000000        0x0 Wiznet_Library/mcu/delay.o
+ .bss           0x00000000        0x0 Wiznet_Library/mcu/delay.o
+ .debug_info    0x00000000       0x64 Wiznet_Library/mcu/delay.o
+ .debug_abbrev  0x00000000       0x26 Wiznet_Library/mcu/delay.o
+ .debug_aranges
+                0x00000000       0x18 Wiznet_Library/mcu/delay.o
+ .debug_line    0x00000000       0x1a Wiznet_Library/mcu/delay.o
+ .debug_str     0x00000000      0x1a4 Wiznet_Library/mcu/delay.o
+ .comment       0x00000000       0x31 Wiznet_Library/mcu/delay.o
+ .text          0x00000000        0x0 Wiznet_Library/mcu/serial.o
+ .data          0x00000000        0x0 Wiznet_Library/mcu/serial.o
+ .bss           0x00000000        0x0 Wiznet_Library/mcu/serial.o
+ .text.uart0_putchar
+                0x00000000       0x18 Wiznet_Library/mcu/serial.o
+ .text.uart0_getchar
+                0x00000000       0x6e Wiznet_Library/mcu/serial.o
+ .text.uart_init
+                0x00000000       0xe0 Wiznet_Library/mcu/serial.o
+ .text.uart_databit
+                0x00000000       0x26 Wiznet_Library/mcu/serial.o
+ .text.uart_stopbit
+                0x00000000       0x20 Wiznet_Library/mcu/serial.o
+ .text.uart_paritybit
+                0x00000000       0x30 Wiznet_Library/mcu/serial.o
+ .text.uart_flowctrl
+                0x00000000       0x10 Wiznet_Library/mcu/serial.o
+ .text.uart_keyhit
+                0x00000000       0x74 Wiznet_Library/mcu/serial.o
+ .text.uart_puts
+                0x00000000       0x4e Wiznet_Library/mcu/serial.o
+ .rodata.str1.1
+                0x00000000        0x3 Wiznet_Library/mcu/serial.o
+ .text.uart_gets
+                0x00000000      0x1c4 Wiznet_Library/mcu/serial.o
+ .text.uart_flush_rx
+                0x00000000       0x20 Wiznet_Library/mcu/serial.o
+ .bss.uart_handler
+                0x00000000        0x4 Wiznet_Library/mcu/serial.o
+ .text          0x00000000        0x0 Wiznet_Library/mcu/timer.o
+ .data          0x00000000        0x0 Wiznet_Library/mcu/timer.o
+ .bss           0x00000000        0x0 Wiznet_Library/mcu/timer.o
+ .text          0x00000000        0x0 Wiznet_Library/util/sockutil.o
+ .data          0x00000000        0x0 Wiznet_Library/util/sockutil.o
+ .bss           0x00000000        0x0 Wiznet_Library/util/sockutil.o
+ .text.VerifyIPAddress
+                0x00000000       0xb4 Wiznet_Library/util/sockutil.o
+ .text.GetDestAddr
+                0x00000000       0x60 Wiznet_Library/util/sockutil.o
+ .text.GetDestPort
+                0x00000000       0x3e Wiznet_Library/util/sockutil.o
+ .text.ntohs    0x00000000        0xc Wiznet_Library/util/sockutil.o
+ .text.CheckDestInLocal
+                0x00000000       0x88 Wiznet_Library/util/sockutil.o
+ .text.getSocket
+                0x00000000       0x2c Wiznet_Library/util/sockutil.o
+ .text.checksum
+                0x00000000       0x7a Wiznet_Library/util/sockutil.o
+ .text.GetIPAddress
+                0x00000000       0x50 Wiznet_Library/util/sockutil.o
+ .text.GetGWAddress
+                0x00000000       0x50 Wiznet_Library/util/sockutil.o
+ .text.GetSubMask
+                0x00000000       0x50 Wiznet_Library/util/sockutil.o
+ .text.GetMacAddress
+                0x00000000       0x42 Wiznet_Library/util/sockutil.o
+ .text.GetDestMacAddr
+                0x00000000       0x52 Wiznet_Library/util/sockutil.o
+ .text.GetNetConfig
+                0x00000000       0xca Wiznet_Library/util/sockutil.o
+ .text          0x00000000        0x0 Wiznet_Library/util/util.o
+ .data          0x00000000        0x0 Wiznet_Library/util/util.o
+ .bss           0x00000000        0x0 Wiznet_Library/util/util.o
+ .text.D2C      0x00000000       0x1c Wiznet_Library/util/util.o
+ .text.ValidATOI
+                0x00000000       0x70 Wiznet_Library/util/util.o
+ .text.ITOA     0x00000000       0x84 Wiznet_Library/util/util.o
+ .text          0x00000000        0x0 Wiznet_Library/util/wiz_util.o
+ .data          0x00000000        0x0 Wiznet_Library/util/wiz_util.o
+ .bss           0x00000000        0x0 Wiznet_Library/util/wiz_util.o
+ .text.D2C      0x00000000       0x1c Wiznet_Library/util/wiz_util.o
+ .text.C2D      0x00000000       0x24 Wiznet_Library/util/wiz_util.o
+ .text.ATOI     0x00000000       0x4a Wiznet_Library/util/wiz_util.o
+ .text.ValidATOI
+                0x00000000       0x70 Wiznet_Library/util/wiz_util.o
+ .text.strspn   0x00000000       0x2e Wiznet_Library/util/wiz_util.o
+ .text.strpbrk  0x00000000       0x2a Wiznet_Library/util/wiz_util.o
+ .text.strtok   0x00000000       0x6e Wiznet_Library/util/wiz_util.o
+ .text.replacetochar
+                0x00000000       0x20 Wiznet_Library/util/wiz_util.o
+ .text.swaps    0x00000000        0x8 Wiznet_Library/util/wiz_util.o
+ .text.swapl    0x00000000       0x66 Wiznet_Library/util/wiz_util.o
+ .text.htonl    0x00000000        0x6 Wiznet_Library/util/wiz_util.o
+ .rodata.str1.1
+                0x00000000      0x12e Wiznet_Library/util/wiz_util.o
+ .text.inet_ntoa
+                0x00000000       0x80 Wiznet_Library/util/wiz_util.o
+ .text.inet_ntoa_pad
+                0x00000000       0x80 Wiznet_Library/util/wiz_util.o
+ .text.inet_addr_
+                0x00000000       0x90 Wiznet_Library/util/wiz_util.o
+ .text.VerifyIPAddress
+                0x00000000       0xb4 Wiznet_Library/util/wiz_util.o
+ .text.GetDestAddr
+                0x00000000       0x60 Wiznet_Library/util/wiz_util.o
+ .text.GetDestPort
+                0x00000000       0x3e Wiznet_Library/util/wiz_util.o
+ .text.htons    0x00000000        0x6 Wiznet_Library/util/wiz_util.o
+ .text.ntohs    0x00000000        0xc Wiznet_Library/util/wiz_util.o
+ .text.ntohl    0x00000000        0x6 Wiznet_Library/util/wiz_util.o
+ .text.CheckDestInLocal
+                0x00000000       0x88 Wiznet_Library/util/wiz_util.o
+ .text.getSocket
+                0x00000000       0x2c Wiznet_Library/util/wiz_util.o
+ .text.checksum
+                0x00000000       0x7a Wiznet_Library/util/wiz_util.o
+ .text.GetIPAddress
+                0x00000000       0x50 Wiznet_Library/util/wiz_util.o
+ .text.GetGWAddress
+                0x00000000       0x50 Wiznet_Library/util/wiz_util.o
+ .text.GetSubMask
+                0x00000000       0x50 Wiznet_Library/util/wiz_util.o
+ .text.GetMacAddress
+                0x00000000       0x42 Wiznet_Library/util/wiz_util.o
+ .text.GetDestMacAddr
+                0x00000000       0x52 Wiznet_Library/util/wiz_util.o
+ .text.GetNetConfig
+                0x00000000       0xca Wiznet_Library/util/wiz_util.o
+ .bss.addr_str.2493
+                0x00000000       0x10 Wiznet_Library/util/wiz_util.o
+ .bss.addr_str.2489
+                0x00000000       0x10 Wiznet_Library/util/wiz_util.o
+ .bss.___strtok
+                0x00000000        0x2 Wiznet_Library/util/wiz_util.o
+ .debug_info    0x00000000      0xdb8 Wiznet_Library/util/wiz_util.o
+ .debug_abbrev  0x00000000      0x25d Wiznet_Library/util/wiz_util.o
+ .debug_loc     0x00000000     0x1855 Wiznet_Library/util/wiz_util.o
+ .debug_aranges
+                0x00000000      0x100 Wiznet_Library/util/wiz_util.o
+ .debug_ranges  0x00000000       0xf0 Wiznet_Library/util/wiz_util.o
+ .debug_line    0x00000000      0x996 Wiznet_Library/util/wiz_util.o
+ .debug_str     0x00000000      0x407 Wiznet_Library/util/wiz_util.o
+ .comment       0x00000000       0x31 Wiznet_Library/util/wiz_util.o
+ .debug_frame   0x00000000      0x47c Wiznet_Library/util/wiz_util.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcat.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcat.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcat.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strstr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strstr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strstr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+ .text.avr-libc
+                0x00000000       0x96 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fdevopen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+ .text.avr-libc
+                0x00000000       0x38 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .data          0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ COMMON         0x00000000        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .text.avr-libc
+                0x00000000        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .debug_line    0x00000000       0x67 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .debug_info    0x00000000       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .debug_abbrev  0x00000000       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_word.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .text.avr-libc
+                0x00000000        0xa C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .debug_line    0x00000000       0x5b C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .debug_info    0x00000000       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .debug_abbrev  0x00000000       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_word.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x00001000         rw !x
+eeprom           0x00810000         0x00001000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+LOAD dhcp_task.o
+LOAD main.o
+LOAD task_config.o
+LOAD Wiznet_Library/evb/config.o
+LOAD Wiznet_Library/evb/dataflash.o
+LOAD Wiznet_Library/evb/evb.o
+LOAD Wiznet_Library/evb/lcd.o
+LOAD Wiznet_Library/evb/romfile.o
+LOAD Wiznet_Library/evb/tc77.o
+LOAD Wiznet_Library/iinchip/md5.o
+LOAD Wiznet_Library/iinchip/socket.o
+LOAD Wiznet_Library/iinchip/w5300.o
+LOAD Wiznet_Library/inet/dhcp.o
+LOAD Wiznet_Library/inet/httpd.o
+LOAD Wiznet_Library/mcu/delay.o
+LOAD Wiznet_Library/mcu/serial.o
+LOAD Wiznet_Library/mcu/timer.o
+LOAD Wiznet_Library/util/sockutil.o
+LOAD Wiznet_Library/util/util.o
+LOAD Wiznet_Library/util/wiz_util.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x00020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00001000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x00001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x4de8
+ *(.vectors)
+ .vectors       0x00000000       0x8c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ca        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x000000ca                __vector_22
+                0x000000ca                __vector_28
+                0x000000ca                __vector_1
+                0x000000ca                __vector_32
+                0x000000ca                __vector_34
+                0x000000ca                __vector_24
+                0x000000ca                __vector_12
+                0x000000ca                __bad_interrupt
+                0x000000ca                __vector_6
+                0x000000ca                __vector_31
+                0x000000ca                __vector_3
+                0x000000ca                __vector_23
+                0x000000ca                __vector_30
+                0x000000ca                __vector_25
+                0x000000ca                __vector_11
+                0x000000ca                __vector_13
+                0x000000ca                __vector_17
+                0x000000ca                __vector_19
+                0x000000ca                __vector_7
+                0x000000ca                __vector_27
+                0x000000ca                __vector_5
+                0x000000ca                __vector_33
+                0x000000ca                __vector_4
+                0x000000ca                __vector_9
+                0x000000ca                __vector_2
+                0x000000ca                __vector_21
+                0x000000ca                __vector_15
+                0x000000ca                __vector_29
+                0x000000ca                __vector_8
+                0x000000ca                __vector_26
+                0x000000ca                __vector_14
+                0x000000ca                __vector_16
+                0x000000ca                __vector_20
+                0x000000ce                . = ALIGN (0x2)
+ *(.text.*)
+ .text.sys_soft_reset
+                0x000000ce        0x6 dhcp_task.o
+                0x000000ce                sys_soft_reset
+ .text.dhcp_task_init
+                0x000000d4       0xd6 dhcp_task.o
+                0x000000d4                dhcp_task_init
+ .text.dhcp_task
+                0x000001aa        0x8 dhcp_task.o
+                0x000001aa                dhcp_task
+ .text.replace_sys_env_value
+                0x000001b2      0x96a main.o
+ .text.NetInit  0x00000b1c       0x82 main.o
+                0x00000b1c                NetInit
+ .text.DisplayBar
+                0x00000b9e        0xa main.o
+                0x00000b9e                DisplayBar
+ .text.DisplayConfig
+                0x00000ba8      0x15a main.o
+                0x00000ba8                DisplayConfig
+ .text.FlashWrite
+                0x00000d02       0xe0 main.o
+                0x00000d02                FlashWrite
+ .text.ProcessRomfileUpdate
+                0x00000de2       0x7a main.o
+                0x00000de2                ProcessRomfileUpdate
+ .text.evb_lcd_logo
+                0x00000e5c       0x22 main.o
+                0x00000e5c                evb_lcd_logo
+ .text.RomFileTest
+                0x00000e7e       0x5c main.o
+                0x00000e7e                RomFileTest
+ .text.cgi_ipconfig
+                0x00000eda       0x92 main.o
+                0x00000eda                cgi_ipconfig
+ .text.proc_http
+                0x00000f6c      0x3f6 main.o
+ .text.ProcessWebSever
+                0x00001362      0x106 main.o
+                0x00001362                ProcessWebSever
+ .text.main     0x00001468       0x6a main.o
+                0x00001468                main
+ .text.default_network
+                0x000014d2       0x38 task_config.o
+                0x000014d2                default_network
+ .text.SetConfig
+                0x0000150a       0x7c task_config.o
+                0x0000150a                SetConfig
+ .text.ProcessConfig
+                0x00001586      0x36e task_config.o
+                0x00001586                ProcessConfig
+ .text.SPI0_Init
+                0x000018f4       0x4a Wiznet_Library/evb/dataflash.o
+                0x000018f4                SPI0_Init
+ .text.SPI0_WriteReadByte
+                0x0000193e        0xa Wiznet_Library/evb/dataflash.o
+                0x0000193e                SPI0_WriteReadByte
+ .text.DF_BufferWriteByte
+                0x00001948       0x4a Wiznet_Library/evb/dataflash.o
+                0x00001948                DF_BufferWriteByte
+ .text.df_read_status
+                0x00001992       0xb2 Wiznet_Library/evb/dataflash.o
+                0x00001992                df_read_status
+ .text.DF_Init  0x00001a44       0x2a Wiznet_Library/evb/dataflash.o
+                0x00001a44                DF_Init
+ .text.DF_PageToBuffer
+                0x00001a6e       0x7e Wiznet_Library/evb/dataflash.o
+                0x00001a6e                DF_PageToBuffer
+ .text.DF_BufferToPage
+                0x00001aec       0x7e Wiznet_Library/evb/dataflash.o
+                0x00001aec                DF_BufferToPage
+ .text.DF_BufferReadStr
+                0x00001b6a       0x72 Wiznet_Library/evb/dataflash.o
+                0x00001b6a                DF_BufferReadStr
+ .text.evb_init
+                0x00001bdc        0x2 Wiznet_Library/evb/evb.o
+                0x00001bdc                evb_init
+ .text.led_off  0x00001bde        0x2 Wiznet_Library/evb/evb.o
+                0x00001bde                led_off
+ .text.led_on   0x00001be0        0x2 Wiznet_Library/evb/evb.o
+                0x00001be0                led_on
+ .text.led_state
+                0x00001be2        0x2 Wiznet_Library/evb/evb.o
+                0x00001be2                led_state
+ .text.evb_set_lcd_text
+                0x00001be4        0x2 Wiznet_Library/evb/evb.o
+                0x00001be4                evb_set_lcd_text
+ .text.evb_get_lcd_text
+                0x00001be6        0x2 Wiznet_Library/evb/evb.o
+                0x00001be6                evb_get_lcd_text
+ .text.sw_state
+                0x00001be8        0x2 Wiznet_Library/evb/evb.o
+                0x00001be8                sw_state
+ .text.AdcRead  0x00001bea        0x2 Wiznet_Library/evb/evb.o
+                0x00001bea                AdcRead
+ .text.InitDataFlash
+                0x00001bec       0x12 Wiznet_Library/evb/romfile.o
+                0x00001bec                InitDataFlash
+ .text.InitRomFile
+                0x00001bfe        0xa Wiznet_Library/evb/romfile.o
+                0x00001bfe                InitRomFile
+ .text.write_to_flash
+                0x00001c08       0x5a Wiznet_Library/evb/romfile.o
+                0x00001c08                write_to_flash
+ .text.write_end_page
+                0x00001c62       0x10 Wiznet_Library/evb/romfile.o
+                0x00001c62                write_end_page
+ .text.read_from_flashbuf
+                0x00001c72      0x112 Wiznet_Library/evb/romfile.o
+                0x00001c72                read_from_flashbuf
+ .text.search_file_rom
+                0x00001d84       0xbe Wiznet_Library/evb/romfile.o
+                0x00001d84                search_file_rom
+ .text.tc77_init
+                0x00001e42        0xe Wiznet_Library/evb/tc77.o
+                0x00001e42                tc77_init
+ .text.tc77_read
+                0x00001e50       0x58 Wiznet_Library/evb/tc77.o
+                0x00001e50                tc77_read
+ .text.close    0x00001ea8       0x14 Wiznet_Library/iinchip/socket.o
+                0x00001ea8                close
+ .text.socket   0x00001ebc       0xc0 Wiznet_Library/iinchip/socket.o
+                0x00001ebc                socket
+ .text.listen   0x00001f7c       0x28 Wiznet_Library/iinchip/socket.o
+                0x00001f7c                listen
+ .text.disconnect
+                0x00001fa4       0x14 Wiznet_Library/iinchip/socket.o
+                0x00001fa4                disconnect
+ .text.send     0x00001fb8      0x108 Wiznet_Library/iinchip/socket.o
+                0x00001fb8                send
+ .text.recv     0x000020c0       0x92 Wiznet_Library/iinchip/socket.o
+                0x000020c0                recv
+ .text.sendto   0x00002152      0x146 Wiznet_Library/iinchip/socket.o
+                0x00002152                sendto
+ .text.recvfrom
+                0x00002298      0x20c Wiznet_Library/iinchip/socket.o
+                0x00002298                recvfrom
+ .text.IINCHIP_READ
+                0x000024a4        0x6 Wiznet_Library/iinchip/w5300.o
+                0x000024a4                IINCHIP_READ
+ .text.IINCHIP_WRITE
+                0x000024aa        0x6 Wiznet_Library/iinchip/w5300.o
+                0x000024aa                IINCHIP_WRITE
+ .text.setSHAR  0x000024b0       0x2e Wiznet_Library/iinchip/w5300.o
+                0x000024b0                setSHAR
+ .text.setGAR   0x000024de       0x34 Wiznet_Library/iinchip/w5300.o
+                0x000024de                setGAR
+ .text.setSUBR  0x00002512       0x34 Wiznet_Library/iinchip/w5300.o
+                0x00002512                setSUBR
+ .text.setSIPR  0x00002546       0x34 Wiznet_Library/iinchip/w5300.o
+                0x00002546                setSIPR
+ .text.setSn_CR
+                0x0000257a       0x28 Wiznet_Library/iinchip/w5300.o
+                0x0000257a                setSn_CR
+ .text.getSn_IR
+                0x000025a2       0x12 Wiznet_Library/iinchip/w5300.o
+                0x000025a2                getSn_IR
+ .text.setSn_IR
+                0x000025b4       0x12 Wiznet_Library/iinchip/w5300.o
+                0x000025b4                setSn_IR
+ .text.getSn_SSR
+                0x000025c6       0x34 Wiznet_Library/iinchip/w5300.o
+                0x000025c6                getSn_SSR
+ .text.setSn_TX_WRSR
+                0x000025fa       0x54 Wiznet_Library/iinchip/w5300.o
+                0x000025fa                setSn_TX_WRSR
+ .text.getSn_TX_FSR
+                0x0000264e       0xb6 Wiznet_Library/iinchip/w5300.o
+                0x0000264e                getSn_TX_FSR
+ .text.getSn_RX_RSR
+                0x00002704       0xb8 Wiznet_Library/iinchip/w5300.o
+                0x00002704                getSn_RX_RSR
+ .text.iinchip_init
+                0x000027bc       0x10 Wiznet_Library/iinchip/w5300.o
+                0x000027bc                iinchip_init
+ .text.sysinit  0x000027cc      0x182 Wiznet_Library/iinchip/w5300.o
+                0x000027cc                sysinit
+ .text.wiz_write_buf
+                0x0000294e       0x72 Wiznet_Library/iinchip/w5300.o
+                0x0000294e                wiz_write_buf
+ .text.wiz_read_buf
+                0x000029c0       0x72 Wiznet_Library/iinchip/w5300.o
+                0x000029c0                wiz_read_buf
+ .text.getIINCHIP_TxMAX
+                0x00002a32       0x1a Wiznet_Library/iinchip/w5300.o
+                0x00002a32                getIINCHIP_TxMAX
+ .text.reset_DHCP_time
+                0x00002a4c       0x2e Wiznet_Library/inet/dhcp.o
+ .text.DHCP_timer_handler
+                0x00002a7a       0x28 Wiznet_Library/inet/dhcp.o
+ .text.proc_ip_conflict
+                0x00002aa2        0x2 Wiznet_Library/inet/dhcp.o
+ .text.parseDHCPMSG
+                0x00002aa4      0x2e4 Wiznet_Library/inet/dhcp.o
+ .text.send_DHCP_RELEASE_DECLINE
+                0x00002d88      0x228 Wiznet_Library/inet/dhcp.o
+ .text.check_leasedIP
+                0x00002fb0       0x48 Wiznet_Library/inet/dhcp.o
+ .text.set_DHCP_network
+                0x00002ff8       0x68 Wiznet_Library/inet/dhcp.o
+ .text.send_DHCP_REQUEST
+                0x00003060      0x356 Wiznet_Library/inet/dhcp.o
+ .text.send_DHCP_DISCOVER
+                0x000033b6      0x1f6 Wiznet_Library/inet/dhcp.o
+ .text.check_DHCP_Timeout
+                0x000035ac       0xb0 Wiznet_Library/inet/dhcp.o
+ .text.check_DHCP_state
+                0x0000365c      0x1ea Wiznet_Library/inet/dhcp.o
+                0x0000365c                check_DHCP_state
+ .text.getIP_DHCPS
+                0x00003846       0x50 Wiznet_Library/inet/dhcp.o
+                0x00003846                getIP_DHCPS
+ .text.init_dhcpc_ch
+                0x00003896       0x8c Wiznet_Library/inet/dhcp.o
+                0x00003896                init_dhcpc_ch
+ .text.init_dhcp_client
+                0x00003922       0x3e Wiznet_Library/inet/dhcp.o
+                0x00003922                init_dhcp_client
+ .text.unescape_http_url
+                0x00003960       0x94 Wiznet_Library/inet/httpd.o
+                0x00003960                unescape_http_url
+ .text.make_http_response_head
+                0x000039f4       0xfc Wiznet_Library/inet/httpd.o
+                0x000039f4                make_http_response_head
+ .text.find_http_uri_type
+                0x00003af0      0x110 Wiznet_Library/inet/httpd.o
+                0x00003af0                find_http_uri_type
+ .text.parse_http_request
+                0x00003c00       0xd6 Wiznet_Library/inet/httpd.o
+                0x00003c00                parse_http_request
+ .text.get_http_param_value
+                0x00003cd6       0x9a Wiznet_Library/inet/httpd.o
+                0x00003cd6                get_http_param_value
+ .text.get_http_uri_name
+                0x00003d70       0x68 Wiznet_Library/inet/httpd.o
+                0x00003d70                get_http_uri_name
+ .text.__vector_18
+                0x00003dd8      0x12e Wiznet_Library/mcu/serial.o
+                0x00003dd8                __vector_18
+ .text.__vector_10
+                0x00003f06       0x96 Wiznet_Library/mcu/timer.o
+                0x00003f06                __vector_10
+ .text.init_timer
+                0x00003f9c       0x36 Wiznet_Library/mcu/timer.o
+                0x00003f9c                init_timer
+ .text.set_timer
+                0x00003fd2       0x20 Wiznet_Library/mcu/timer.o
+                0x00003fd2                set_timer
+ .text.kill_timer
+                0x00003ff2       0x2c Wiznet_Library/mcu/timer.o
+                0x00003ff2                kill_timer
+ .text.swapl    0x0000401e       0x66 Wiznet_Library/util/sockutil.o
+                0x0000401e                swapl
+ .text.htonl    0x00004084        0x6 Wiznet_Library/util/sockutil.o
+                0x00004084                htonl
+ .text.inet_ntoa
+                0x0000408a       0x80 Wiznet_Library/util/sockutil.o
+                0x0000408a                inet_ntoa
+ .text.inet_ntoa_pad
+                0x0000410a       0x80 Wiznet_Library/util/sockutil.o
+                0x0000410a                inet_ntoa_pad
+ .text.inet_addr_
+                0x0000418a       0x90 Wiznet_Library/util/sockutil.o
+                0x0000418a                inet_addr_
+ .text.htons    0x0000421a        0x6 Wiznet_Library/util/sockutil.o
+                0x0000421a                htons
+ .text.ntohl    0x00004220        0x6 Wiznet_Library/util/sockutil.o
+                0x00004220                ntohl
+ .text.C2D      0x00004226       0x24 Wiznet_Library/util/util.o
+                0x00004226                C2D
+ .text.ATOI     0x0000424a       0x4a Wiznet_Library/util/util.o
+                0x0000424a                ATOI
+ .text.strspn   0x00004294       0x2e Wiznet_Library/util/util.o
+                0x00004294                strspn
+ .text.strpbrk  0x000042c2       0x2a Wiznet_Library/util/util.o
+                0x000042c2                strpbrk
+ .text.strtok   0x000042ec       0x6e Wiznet_Library/util/util.o
+                0x000042ec                strtok
+ .text.replacetochar
+                0x0000435a       0x20 Wiznet_Library/util/util.o
+                0x0000435a                replacetochar
+ .text.swaps    0x0000437a        0x8 Wiznet_Library/util/util.o
+                0x0000437a                swaps
+ .text.avr-libc.fplib
+                0x00004382       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                0x00004382                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000043e0       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x000043e0                __floatunsisf
+                0x000043e4                __floatsisf
+ .text.avr-libc.fplib
+                0x0000445a       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x0000445a                __fp_split3
+                0x0000446a                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000449e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x0000449e                __fp_zero
+                0x000044a0                __fp_szero
+ .text.avr-libc.fplib
+                0x000044ac        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                0x000044ac                __mulsf3
+ .text.avr-libc.fplib
+                0x000044b4       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                0x000044d2                __mulsf3x
+                0x000044d8                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00004586        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x00004586                __fp_inf
+ .text.avr-libc.fplib
+                0x00004592        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x00004592                __fp_nan
+ .text.avr-libc.fplib
+                0x00004598        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x00004598                __fp_pscA
+ .text.avr-libc.fplib
+                0x000045a6        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x000045a6                __fp_pscB
+ .text.avr-libc.fplib
+                0x000045b4       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x000045b4                __fp_round
+ .text.libgcc.div
+                0x000045d6       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x000045d6                __udivmodhi4
+ .text.libgcc.div
+                0x000045fe       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
+                0x000045fe                __udivmodsi4
+ .text.libgcc.mul
+                0x00004642       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                0x00004642                __umulhisi3
+ .text.avr-libc
+                0x00004660       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy_P.o)
+                0x00004660                memcpy_P
+ .text.avr-libc
+                0x00004672       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcmp.o)
+                0x00004672                memcmp
+ .text.avr-libc
+                0x0000468c       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                0x0000468c                memcpy
+ .text.avr-libc
+                0x0000469e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(memset.o)
+                0x0000469e                memset
+ .text.avr-libc
+                0x000046ac       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcat.o)
+                0x000046ac                strcat
+ .text.avr-libc
+                0x000046c2       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strchr.o)
+                0x000046c2                strchr
+ .text.avr-libc
+                0x000046d8       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcmp.o)
+                0x000046d8                strcmp
+ .text.avr-libc
+                0x000046ea        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strcpy.o)
+                0x000046ea                strcpy
+ .text.avr-libc
+                0x000046f8       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strstr.o)
+                0x000046f8                strstr
+ .text.avr-libc
+                0x0000472c       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x0000472c                printf
+ .text.avr-libc
+                0x00004754       0x60 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x00004754                puts
+ .text.avr-libc
+                0x000047b4       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                0x000047b4                sprintf
+ .text.avr-libc
+                0x00004812      0x414 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                0x00004812                vfprintf
+ .text.avr-libc
+                0x00004c26       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00004c26                strnlen_P
+ .text.avr-libc
+                0x00004c3c       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00004c3c                strnlen
+ .text.avr-libc
+                0x00004c52       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00004c52                fputc
+ .text.avr-libc
+                0x00004cca       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00004cca                __ultoa_invert
+ .text.avr-libc
+                0x00004d86       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+                0x00004d86                eeprom_read_block
+                0x00004d8a                eeprom_read_blraw
+ .text.avr-libc
+                0x00004da6       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+                0x00004da6                eeprom_read_byte
+ .text.avr-libc
+                0x00004db6       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+                0x00004db6                eeprom_write_block
+ .text.avr-libc
+                0x00004dca       0x1a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+                0x00004dca                eeprom_write_byte
+                0x00004dcc                eeprom_write_r18
+                0x00004de4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00004de4        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x00004de4                _exit
+                0x00004de4                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00004de4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00004de8                _etext = .
+
+.data           0x00800100      0x8c0 load address 0x00004de8
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800100        0x8 main.o
+ .rodata        0x00800108       0x35 task_config.o
+ .rodata        0x0080013d       0x18 Wiznet_Library/evb/dataflash.o
+ .rodata        0x00800155        0x8 Wiznet_Library/inet/dhcp.o
+ .rodata        0x0080015d        0x9 Wiznet_Library/inet/httpd.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800166       0x6c dhcp_task.o
+ .rodata.str1.1
+                0x008001d2      0x2c4 main.o
+                                0x2d6 (size before relaxing)
+ .rodata.RETURN_CGI_PAGE
+                0x00800496       0x7f main.o
+ .rodata.ERROR_REQUEST_PAGE
+                0x00800515       0x76 main.o
+ .rodata.ERROR_HTML_PAGE
+                0x0080058b       0x99 main.o
+ .rodata.str1.1
+                0x00800624       0x35 task_config.o
+ .rodata.str1.1
+                0x00800659       0x7b Wiznet_Library/iinchip/socket.o
+ .rodata.str1.1
+                0x008006d4       0x31 Wiznet_Library/inet/dhcp.o
+ .rodata.str1.1
+                0x00800705      0x201 Wiznet_Library/inet/httpd.o
+                                0x214 (size before relaxing)
+ .rodata.str1.1
+                0x00800906       0xba Wiznet_Library/util/sockutil.o
+                                0x12e (size before relaxing)
+ *(.gnu.linkonce.r*)
+                0x008009c0                . = ALIGN (0x2)
+                0x008009c0                _edata = .
+                0x008009c0                PROVIDE (__data_end, .)
+
+.bss            0x008009c0      0x13b
+                0x008009c0                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.m_FileWriteCount
+                0x008009c0        0x4 main.o
+                0x008009c0                m_FileWriteCount
+ .bss.m_FileSize
+                0x008009c4        0x4 main.o
+                0x008009c4                m_FileSize
+ .bss.m_FlagFlashWrite
+                0x008009c8        0x1 main.o
+                0x008009c8                m_FlagFlashWrite
+ .bss.http_request
+                0x008009c9        0x2 main.o
+ .bss.http_response
+                0x008009cb        0x2 main.o
+ .bss.m_WritePage
+                0x008009cd        0x2 Wiznet_Library/evb/romfile.o
+                0x008009cd                m_WritePage
+ .bss.m_WriteAddress
+                0x008009cf        0x2 Wiznet_Library/evb/romfile.o
+                0x008009cf                m_WriteAddress
+ .bss.dhcp_ip_conflict
+                0x008009d1        0x2 Wiznet_Library/inet/dhcp.o
+                0x008009d1                dhcp_ip_conflict
+ .bss.dhcp_ip_update
+                0x008009d3        0x2 Wiznet_Library/inet/dhcp.o
+                0x008009d3                dhcp_ip_update
+ .bss.pRIPMSG   0x008009d5        0x2 Wiznet_Library/inet/dhcp.o
+ .bss.DHCPC_SOCK
+                0x008009d7        0x1 Wiznet_Library/inet/dhcp.o
+ .bss.DHCP_XID  0x008009d8        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.next_dhcp_time
+                0x008009dc        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.dhcp_time
+                0x008009e0        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.lease_time
+                0x008009e4        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.DHCP_timeout
+                0x008009e8        0x1 Wiznet_Library/inet/dhcp.o
+ .bss.retry_count
+                0x008009e9        0x1 Wiznet_Library/inet/dhcp.o
+ .bss.dhcp_state
+                0x008009ea        0x1 Wiznet_Library/inet/dhcp.o
+ .bss.OLD_SIP   0x008009eb        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.DHCP_REAL_SIP
+                0x008009ef        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.DHCP_SIP  0x008009f3        0x4 Wiznet_Library/inet/dhcp.o
+ .bss.GET_SIP   0x008009f7        0x4 Wiznet_Library/inet/dhcp.o
+                0x008009f7                GET_SIP
+ .bss.GET_DNS_IP
+                0x008009fb        0x4 Wiznet_Library/inet/dhcp.o
+                0x008009fb                GET_DNS_IP
+ .bss.bXONOFF   0x008009ff        0x1 Wiznet_Library/mcu/serial.o
+ .bss.SIO_FLOW  0x00800a00        0x1 Wiznet_Library/mcu/serial.o
+ .bss.sio_tail  0x00800a01        0x2 Wiznet_Library/mcu/serial.o
+ .bss.sio_head  0x00800a03        0x2 Wiznet_Library/mcu/serial.o
+ .bss.sio_rxd   0x00800a05       0x20 Wiznet_Library/mcu/serial.o
+ .bss.sys_tick_1s
+                0x00800a25        0x2 Wiznet_Library/mcu/timer.o
+ .bss.addr_str.2384
+                0x00800a27       0x10 Wiznet_Library/util/sockutil.o
+ .bss.addr_str.2380
+                0x00800a37       0x10 Wiznet_Library/util/sockutil.o
+ .bss.___strtok
+                0x00800a47        0x2 Wiznet_Library/util/util.o
+ *(COMMON)
+ COMMON         0x00800a49        0x1 main.o
+                0x00800a49                bchannel_start
+ COMMON         0x00800a4a       0x3e task_config.o
+                0x00800a4a                NetworkParam
+                0x00800a69                MSGConfig
+ COMMON         0x00800a88        0x3 Wiznet_Library/evb/dataflash.o
+                0x00800a88                PageBits
+                0x00800a89                PageSize
+ COMMON         0x00800a8b       0x12 Wiznet_Library/iinchip/socket.o
+                0x00800a8b                check_sendok_flag
+                0x00800a93                first_send_flag
+                0x00800a9b                local_port
+ COMMON         0x00800a9d       0x48 Wiznet_Library/iinchip/w5300.o
+                0x00800a9d                SOCK_INT
+                0x00800aa5                RXMEM_SIZE
+                0x00800ac5                TXMEM_SIZE
+ COMMON         0x00800ae5        0xe Wiznet_Library/inet/dhcp.o
+                0x00800ae5                GET_GW_IP
+                0x00800ae9                GET_SN_MASK
+                0x00800aed                SRC_MAC_ADDR
+ COMMON         0x00800af3        0x2 Wiznet_Library/mcu/timer.o
+                0x00800af3                TIMER_IRQS
+ COMMON         0x00800af5        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x00800af5                __iob
+                0x00800afb                PROVIDE (__bss_end, .)
+                0x00004de8                __data_load_start = LOADADDR (.data)
+                0x000056a8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800afb        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800afb                _end = .
+                0x00800afb                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 dhcp_task.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 task_config.o
+ .comment       0x00000030       0x31 Wiznet_Library/evb/dataflash.o
+ .comment       0x00000030       0x31 Wiznet_Library/evb/evb.o
+ .comment       0x00000030       0x31 Wiznet_Library/evb/romfile.o
+ .comment       0x00000030       0x31 Wiznet_Library/evb/tc77.o
+ .comment       0x00000030       0x31 Wiznet_Library/iinchip/socket.o
+ .comment       0x00000030       0x31 Wiznet_Library/iinchip/w5300.o
+ .comment       0x00000030       0x31 Wiznet_Library/inet/dhcp.o
+ .comment       0x00000030       0x31 Wiznet_Library/inet/httpd.o
+ .comment       0x00000030       0x31 Wiznet_Library/mcu/serial.o
+ .comment       0x00000030       0x31 Wiznet_Library/mcu/timer.o
+ .comment       0x00000030       0x31 Wiznet_Library/util/sockutil.o
+ .comment       0x00000030       0x31 Wiznet_Library/util/util.o
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .comment       0x00000030       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x840
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 dhcp_task.o
+ .debug_aranges
+                0x00000030       0x78 main.o
+ .debug_aranges
+                0x000000a8       0x30 task_config.o
+ .debug_aranges
+                0x000000d8       0x80 Wiznet_Library/evb/dataflash.o
+ .debug_aranges
+                0x00000158       0x90 Wiznet_Library/evb/evb.o
+ .debug_aranges
+                0x000001e8       0x48 Wiznet_Library/evb/romfile.o
+ .debug_aranges
+                0x00000230       0x28 Wiznet_Library/evb/tc77.o
+ .debug_aranges
+                0x00000258       0x68 Wiznet_Library/iinchip/socket.o
+ .debug_aranges
+                0x000002c0      0x260 Wiznet_Library/iinchip/w5300.o
+ .debug_aranges
+                0x00000520       0x88 Wiznet_Library/inet/dhcp.o
+ .debug_aranges
+                0x000005a8       0x48 Wiznet_Library/inet/httpd.o
+ .debug_aranges
+                0x000005f0       0x78 Wiznet_Library/mcu/serial.o
+ .debug_aranges
+                0x00000668       0x38 Wiznet_Library/mcu/timer.o
+ .debug_aranges
+                0x000006a0       0xb8 Wiznet_Library/util/sockutil.o
+ .debug_aranges
+                0x00000758       0x68 Wiznet_Library/util/util.o
+ .debug_aranges
+                0x000007c0       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .debug_aranges
+                0x000007e0       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .debug_aranges
+                0x00000800       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .debug_aranges
+                0x00000820       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x9d4b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_info    0x00000780      0x38d dhcp_task.o
+ .debug_info    0x00000b0d     0x198e main.o
+ .debug_info    0x0000249b      0x757 task_config.o
+ .debug_info    0x00002bf2      0x70e Wiznet_Library/evb/dataflash.o
+ .debug_info    0x00003300      0x5d1 Wiznet_Library/evb/evb.o
+ .debug_info    0x000038d1      0x49d Wiznet_Library/evb/romfile.o
+ .debug_info    0x00003d6e      0x120 Wiznet_Library/evb/tc77.o
+ .debug_info    0x00003e8e      0xd10 Wiznet_Library/iinchip/socket.o
+ .debug_info    0x00004b9e     0x1ebb Wiznet_Library/iinchip/w5300.o
+ .debug_info    0x00006a59      0xe60 Wiznet_Library/inet/dhcp.o
+ .debug_info    0x000078b9      0xa45 Wiznet_Library/inet/httpd.o
+ .debug_info    0x000082fe      0x6da Wiznet_Library/mcu/serial.o
+ .debug_info    0x000089d8      0x1f2 Wiznet_Library/mcu/timer.o
+ .debug_info    0x00008bca      0xa84 Wiznet_Library/util/sockutil.o
+ .debug_info    0x0000964e      0x493 Wiznet_Library/util/util.o
+ .debug_info    0x00009ae1       0x9b C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .debug_info    0x00009b7c       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .debug_info    0x00009c16       0x9b C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .debug_info    0x00009cb1       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x2213
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_abbrev  0x00000718      0x15b dhcp_task.o
+ .debug_abbrev  0x00000873      0x2c5 main.o
+ .debug_abbrev  0x00000b38      0x17c task_config.o
+ .debug_abbrev  0x00000cb4      0x19b Wiznet_Library/evb/dataflash.o
+ .debug_abbrev  0x00000e4f      0x1ac Wiznet_Library/evb/evb.o
+ .debug_abbrev  0x00000ffb      0x1a1 Wiznet_Library/evb/romfile.o
+ .debug_abbrev  0x0000119c       0xe2 Wiznet_Library/evb/tc77.o
+ .debug_abbrev  0x0000127e      0x1ae Wiznet_Library/iinchip/socket.o
+ .debug_abbrev  0x0000142c      0x25a Wiznet_Library/iinchip/w5300.o
+ .debug_abbrev  0x00001686      0x2dc Wiznet_Library/inet/dhcp.o
+ .debug_abbrev  0x00001962      0x195 Wiznet_Library/inet/httpd.o
+ .debug_abbrev  0x00001af7      0x27c Wiznet_Library/mcu/serial.o
+ .debug_abbrev  0x00001d73      0x109 Wiznet_Library/mcu/timer.o
+ .debug_abbrev  0x00001e7c      0x1f8 Wiznet_Library/util/sockutil.o
+ .debug_abbrev  0x00002074      0x14f Wiznet_Library/util/util.o
+ .debug_abbrev  0x000021c3       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .debug_abbrev  0x000021d7       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .debug_abbrev  0x000021eb       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .debug_abbrev  0x000021ff       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x5186
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x16a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_line    0x0000016a      0x281 dhcp_task.o
+ .debug_line    0x000003eb      0xb73 main.o
+ .debug_line    0x00000f5e      0x42c task_config.o
+ .debug_line    0x0000138a      0x48f Wiznet_Library/evb/dataflash.o
+ .debug_line    0x00001819      0x216 Wiznet_Library/evb/evb.o
+ .debug_line    0x00001a2f      0x287 Wiznet_Library/evb/romfile.o
+ .debug_line    0x00001cb6       0xea Wiznet_Library/evb/tc77.o
+ .debug_line    0x00001da0      0x567 Wiznet_Library/iinchip/socket.o
+ .debug_line    0x00002307      0xb9e Wiznet_Library/iinchip/w5300.o
+ .debug_line    0x00002ea5      0xb08 Wiznet_Library/inet/dhcp.o
+ .debug_line    0x000039ad      0x3f2 Wiznet_Library/inet/httpd.o
+ .debug_line    0x00003d9f      0x546 Wiznet_Library/mcu/serial.o
+ .debug_line    0x000042e5      0x1f2 Wiznet_Library/mcu/timer.o
+ .debug_line    0x000044d7      0x67f Wiznet_Library/util/sockutil.o
+ .debug_line    0x00004b56      0x3f3 Wiznet_Library/util/util.o
+ .debug_line    0x00004f49       0xab C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_block.o)
+ .debug_line    0x00004ff4       0x7a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eerd_byte.o)
+ .debug_line    0x0000506e       0x80 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_block.o)
+ .debug_line    0x000050ee       0x98 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51\libatmega128.a(eewr_byte.o)
+
+.debug_frame    0x00000000     0x1b84
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x50 dhcp_task.o
+ .debug_frame   0x00000050      0x258 main.o
+ .debug_frame   0x000002a8       0x70 task_config.o
+ .debug_frame   0x00000318      0x1a0 Wiznet_Library/evb/dataflash.o
+ .debug_frame   0x000004b8      0x114 Wiznet_Library/evb/evb.o
+ .debug_frame   0x000005cc      0x110 Wiznet_Library/evb/romfile.o
+ .debug_frame   0x000006dc       0x48 Wiznet_Library/evb/tc77.o
+ .debug_frame   0x00000724      0x234 Wiznet_Library/iinchip/socket.o
+ .debug_frame   0x00000958      0x7f4 Wiznet_Library/iinchip/w5300.o
+ .debug_frame   0x0000114c      0x210 Wiznet_Library/inet/dhcp.o
+ .debug_frame   0x0000135c      0x13c Wiznet_Library/inet/httpd.o
+ .debug_frame   0x00001498      0x178 Wiznet_Library/mcu/serial.o
+ .debug_frame   0x00001610       0xa0 Wiznet_Library/mcu/timer.o
+ .debug_frame   0x000016b0      0x390 Wiznet_Library/util/sockutil.o
+ .debug_frame   0x00001a40      0x144 Wiznet_Library/util/util.o
+
+.debug_str      0x00000000     0x19b8
+ *(.debug_str)
+ .debug_str     0x00000000      0x27d C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_str     0x0000027d      0x273 dhcp_task.o
+                                0x2be (size before relaxing)
+ .debug_str     0x000004f0      0x3f3 main.o
+                                0x643 (size before relaxing)
+ .debug_str     0x000008e3       0x95 task_config.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00000978      0x164 Wiznet_Library/evb/dataflash.o
+                                0x2ff (size before relaxing)
+ .debug_str     0x00000adc       0x60 Wiznet_Library/evb/evb.o
+                                0x347 (size before relaxing)
+ .debug_str     0x00000b3c       0x95 Wiznet_Library/evb/romfile.o
+                                0x30a (size before relaxing)
+ .debug_str     0x00000bd1       0x28 Wiznet_Library/evb/tc77.o
+                                0x1e2 (size before relaxing)
+ .debug_str     0x00000bf9       0xd8 Wiznet_Library/iinchip/socket.o
+                                0x325 (size before relaxing)
+ .debug_str     0x00000cd1      0x318 Wiznet_Library/iinchip/w5300.o
+                                0x5b2 (size before relaxing)
+ .debug_str     0x00000fe9      0x5d5 Wiznet_Library/inet/dhcp.o
+                                0x8b9 (size before relaxing)
+ .debug_str     0x000015be       0x68 Wiznet_Library/inet/httpd.o
+                                0x30b (size before relaxing)
+ .debug_str     0x00001626      0x191 Wiznet_Library/mcu/serial.o
+                                0x355 (size before relaxing)
+ .debug_str     0x000017b7       0x70 Wiznet_Library/mcu/timer.o
+                                0x25b (size before relaxing)
+ .debug_str     0x00001827      0x12b Wiznet_Library/util/sockutil.o
+                                0x3a6 (size before relaxing)
+ .debug_str     0x00001952       0x66 Wiznet_Library/util/util.o
+                                0x24e (size before relaxing)
+
+.debug_loc      0x00000000     0x7a7e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x3c dhcp_task.o
+ .debug_loc     0x0000003c      0xa75 main.o
+ .debug_loc     0x00000ab1       0xfb task_config.o
+ .debug_loc     0x00000bac      0x6df Wiznet_Library/evb/dataflash.o
+ .debug_loc     0x0000128b       0xcb Wiznet_Library/evb/evb.o
+ .debug_loc     0x00001356      0x4ba Wiznet_Library/evb/romfile.o
+ .debug_loc     0x00001810       0xb5 Wiznet_Library/evb/tc77.o
+ .debug_loc     0x000018c5      0xe7e Wiznet_Library/iinchip/socket.o
+ .debug_loc     0x00002743     0x1c46 Wiznet_Library/iinchip/w5300.o
+ .debug_loc     0x00004389      0xdb5 Wiznet_Library/inet/dhcp.o
+ .debug_loc     0x0000513e      0x6f9 Wiznet_Library/inet/httpd.o
+ .debug_loc     0x00005837      0x634 Wiznet_Library/mcu/serial.o
+ .debug_loc     0x00005e6b      0x181 Wiznet_Library/mcu/timer.o
+ .debug_loc     0x00005fec     0x1175 Wiznet_Library/util/sockutil.o
+ .debug_loc     0x00007161      0x91d Wiznet_Library/util/util.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x6d0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 dhcp_task.o
+ .debug_ranges  0x00000020       0x68 main.o
+ .debug_ranges  0x00000088       0x20 task_config.o
+ .debug_ranges  0x000000a8       0x70 Wiznet_Library/evb/dataflash.o
+ .debug_ranges  0x00000118       0x80 Wiznet_Library/evb/evb.o
+ .debug_ranges  0x00000198       0x38 Wiznet_Library/evb/romfile.o
+ .debug_ranges  0x000001d0       0x18 Wiznet_Library/evb/tc77.o
+ .debug_ranges  0x000001e8       0x58 Wiznet_Library/iinchip/socket.o
+ .debug_ranges  0x00000240      0x250 Wiznet_Library/iinchip/w5300.o
+ .debug_ranges  0x00000490       0x78 Wiznet_Library/inet/dhcp.o
+ .debug_ranges  0x00000508       0x38 Wiznet_Library/inet/httpd.o
+ .debug_ranges  0x00000540       0x68 Wiznet_Library/mcu/serial.o
+ .debug_ranges  0x000005a8       0x28 Wiznet_Library/mcu/timer.o
+ .debug_ranges  0x000005d0       0xa8 Wiznet_Library/util/sockutil.o
+ .debug_ranges  0x00000678       0x58 Wiznet_Library/util/util.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(WIZNET_EVM_PORT.elf elf32-avr)
+LOAD linker stubs
